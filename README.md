@@ -1,2 +1,3 @@
 # flights-arrow
-Flight Dataset as Apache Arrow in Different Sizes
+
+Data from https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236 as Apache Arrow files. 
